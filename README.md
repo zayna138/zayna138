@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Zayna 👋
 
-<!--
-**zayna138/zayna138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Data Science Student  
+📊 Aspiring Data Scientist  
+💻 Python | Machine Learning | Data Analytics  
+🚀 Data Science Intern at SkillCraft Technology  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Data Science Internship Projects
+- Machine Learning
+- Exploratory Data Analysis
